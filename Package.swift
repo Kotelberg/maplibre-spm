@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MapLibre",
-            url: "https://map.hatahub.com.ua/spm/MapLibre-1.0.0.xcframework.zip",
-            checksum: "f0ab3ce7a05a7603e3365f97239494b5be6c5b86128c1cb6b876252f462097ab"
+            url: "https://map.hatahub.com.ua/spm/MapLibre-1.0.1.xcframework.zip",
+            checksum: "aeddef775d7986b14c35afd556419c89c8147e9ef21c3800e9f5745781a1c1cb"
         )
     ]
 )
